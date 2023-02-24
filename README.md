@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24px> Hi there! I'm Roger!</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rogerluan&show_icons=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogerluan">
+<img src="https://visitor-badge.glitch.me/badge?page_id=rogerluan.rogerluan">
+</p>
 
 <!--
-**rogerluan/rogerluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details><summary>Click to see my Stack Overflow Stats</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Stack Overflow Card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=4075379)
+
+</details>
+
 -->
