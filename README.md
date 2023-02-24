@@ -19,4 +19,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, yet-another-blogging-platform!](https://www.roger.ml/p/coming-soon)
+- [Testing multiple local Swift dependencies efficiently](https://www.roger.ml/p/testing-dependencies-efficiently)
+- [How to update App Store screenshots without uploading a new build](https://www.roger.ml/p/app-store-screenshots)
 <!-- BLOG-POST-LIST:END -->
