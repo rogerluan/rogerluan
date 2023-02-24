@@ -1,8 +1,9 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24px> Hi there! I'm Roger!</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rogerluan&show_icons=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogerluan">
-<img src="https://visitor-badge.glitch.me/badge?page_id=rogerluan.rogerluan">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rogerluan&show_icons=true"></br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rogerluan"></br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=rogerluan.rogerluan"></br>
 </p>
 
 <!--
