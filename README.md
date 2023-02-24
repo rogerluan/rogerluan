@@ -16,7 +16,7 @@
 
 -->
 
-# Blog posts
+# Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello, yet-another-blogging-platform!](https://www.roger.ml/p/coming-soon)
