@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Spent The Last 2 Months &quot;Away &amp; DND&quot; on Work’s Slack](https://www.roger.ml/p/social-experiment-spent-two-months-dnd-on-slack)
 - [Hello, yet-another-blogging-platform!](https://www.roger.ml/p/coming-soon)
 - [Testing multiple local Swift dependencies efficiently](https://www.roger.ml/p/testing-dependencies-efficiently)
-- [How to update App Store screenshots without uploading a new build](https://www.roger.ml/p/app-store-screenshots)
 <!-- BLOG-POST-LIST:END -->
