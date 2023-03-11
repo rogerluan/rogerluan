@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The ultimate guide to becoming a Slack super user 🦸‍♂️](https://www.roger.ml/p/slack-super-user)
 - [I Spent The Last 2 Months &quot;Away &amp; DND&quot; on Work’s Slack](https://www.roger.ml/p/social-experiment-spent-two-months-dnd-on-slack)
 - [Hello, yet-another-blogging-platform!](https://www.roger.ml/p/coming-soon)
-- [Testing multiple local Swift dependencies efficiently](https://www.roger.ml/p/testing-dependencies-efficiently)
 <!-- BLOG-POST-LIST:END -->
