@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install Swift 5.8 in a Debian Distro](https://www.roger.ml/p/how-to-install-swift-58-in-a-debian)
 - [The ultimate guide to becoming a Slack super user 🦸‍♂️](https://www.roger.ml/p/slack-super-user)
 - [I Spent The Last 2 Months &quot;Away &amp; DND&quot; on Work’s Slack](https://www.roger.ml/p/social-experiment-spent-two-months-dnd-on-slack)
-- [Hello, yet-another-blogging-platform!](https://www.roger.ml/p/coming-soon)
 <!-- BLOG-POST-LIST:END -->
