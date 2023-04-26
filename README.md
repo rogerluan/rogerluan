@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Authenticating with GitHub on Jenkins CI using a GitHub App](https://www.roger.ml/p/jenkins-ci-github-app-authentication)
 - [How to install Swift 5.8 in a Debian Distro](https://www.roger.ml/p/how-to-install-swift-58-in-a-debian)
 - [The ultimate guide to becoming a Slack super user 🦸‍♂️](https://www.roger.ml/p/slack-super-user)
-- [I Spent The Last 2 Months &quot;Away &amp; DND&quot; on Work’s Slack](https://www.roger.ml/p/social-experiment-spent-two-months-dnd-on-slack)
 <!-- BLOG-POST-LIST:END -->
