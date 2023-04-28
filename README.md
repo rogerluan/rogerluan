@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🔖 Slack Improves Task Management and Introduces &quot;Later&quot; View](https://www.roger.ml/p/slack-task-management)
 - [Step-by-Step Jenkins Setup for iOS in 2023 | Ultimate Guide](https://www.roger.ml/p/jenkins-ios-setup)
 - [Authenticating with GitHub on Jenkins CI using a GitHub App](https://www.roger.ml/p/jenkins-ci-github-app-authentication)
-- [How to install Swift 5.8 in a Debian Distro](https://www.roger.ml/p/how-to-install-swift-58-in-a-debian)
 <!-- BLOG-POST-LIST:END -->
