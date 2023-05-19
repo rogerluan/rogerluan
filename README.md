@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embedding Build Status Badges from a Private Jenkins Instance](https://www.roger.ml/p/jenkins-embedded-build-status-badge)
 - [🖼️ iOS Best Practices: Don&#39;t Use Dynamic Strings to Init Images](https://www.roger.ml/p/dont-use-dynamic-strings-to-init-images)
 - [🔗 Troubleshooting Universal Links &lpar;aka Deep Links&rpar; in iOS](https://www.roger.ml/p/troubleshooting-ios-deep-links)
-- [🔖 Slack Improves Task Management and Introduces &quot;Later&quot; View](https://www.roger.ml/p/slack-task-management)
 <!-- BLOG-POST-LIST:END -->
