@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🦾 How to run xcodebuild using Rosetta on Xcode 14.3+](https://www.roger.ml/p/run-xcodebuild-using-rosetta-xcode-14-3)
 - [✅ Embedding Build Status Badges from a Private Jenkins Instance](https://www.roger.ml/p/jenkins-embedded-build-status-badge)
 - [🖼️ iOS Best Practices: Don&#39;t Use Dynamic Strings to Init Images](https://www.roger.ml/p/dont-use-dynamic-strings-to-init-images)
-- [🔗 Troubleshooting Universal Links &lpar;aka Deep Links&rpar; in iOS](https://www.roger.ml/p/troubleshooting-ios-deep-links)
 <!-- BLOG-POST-LIST:END -->
