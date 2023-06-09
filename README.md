@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to generate and upload linkmaps to Emerge](https://www.roger.ml/p/emerge-linkmaps)
+- [🗺️ How to generate and upload linkmaps to Emerge](https://www.roger.ml/p/emerge-linkmaps)
 - [🦾 How to run xcodebuild using Rosetta on Xcode 14.3+](https://www.roger.ml/p/run-xcodebuild-using-rosetta-xcode-14-3)
 - [✅ Embedding Build Status Badges from a Private Jenkins Instance](https://www.roger.ml/p/jenkins-embedded-build-status-badge)
 <!-- BLOG-POST-LIST:END -->
