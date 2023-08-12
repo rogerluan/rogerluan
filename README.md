@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rogerluan&show_icons=true"></br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogerluan"></br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=rogerluan.rogerluan"></br>
+<img src="https://views.whatilearened.today/views/github/rogerluan/rogerluan.svg"></br>
 </p>
 
 <!--
