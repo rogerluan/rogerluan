@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Launching A New Service: Statused.com!](https://www.roger.ml/p/launching-statused)
 - [🤫 Where are you storing your secrets in your mobile projects?](https://www.roger.ml/p/store-app-secrets-safely)
 - [🗺️ How to generate and upload linkmaps to Emerge](https://www.roger.ml/p/emerge-linkmaps)
-- [🦾 How to run xcodebuild using Rosetta on Xcode 14.3+](https://www.roger.ml/p/run-xcodebuild-using-rosetta-xcode-14-3)
 <!-- BLOG-POST-LIST:END -->
