@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 How to create Google Play API key in 2023](https://www.roger.ml/p/how-to-create-google-play-api-key)
 - [🚀 Launching A New Service: Statused.com!](https://www.roger.ml/p/launching-statused)
 - [🤫 Where are you storing your secrets in your mobile projects?](https://www.roger.ml/p/store-app-secrets-safely)
-- [🗺️ How to generate and upload linkmaps to Emerge](https://www.roger.ml/p/emerge-linkmaps)
 <!-- BLOG-POST-LIST:END -->
