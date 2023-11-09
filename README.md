@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🌉 Bridging gaps in tech: Statused&#39;s new Android support makes waves](https://www.roger.ml/p/launching-statused-android)
 - [🤖 How to create Google Play API key in 2023](https://www.roger.ml/p/how-to-create-google-play-api-key)
 - [🚀 Launching A New Service: Statused.com!](https://www.roger.ml/p/launching-statused)
-- [🤫 Where are you storing your secrets in your mobile projects?](https://www.roger.ml/p/store-app-secrets-safely)
 <!-- BLOG-POST-LIST:END -->
