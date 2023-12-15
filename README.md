@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [⚙️ Syncing GitHub repository settings at scale](https://www.roger.ml/p/syncing-github-repository-settings)
 - [🪵 Replacing your logging framework with OSLog](https://www.roger.ml/p/oslog)
 - [🌉 Bridging gaps in tech: Statused&#39;s new Android support makes waves](https://www.roger.ml/p/launching-statused-android)
-- [🤖 How to create Google Play API key in 2023](https://www.roger.ml/p/how-to-create-google-play-api-key)
 <!-- BLOG-POST-LIST:END -->
