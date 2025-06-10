@@ -19,7 +19,7 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🛑 Apple Deprecates template_name for Provisioning Profiles](https://www.roger.ml/p/apple-deprecates-template-name)
 - [⚙️ Syncing GitHub repository settings at scale](https://www.roger.ml/p/syncing-github-repository-settings)
 - [🪵 Replacing your logging framework with OSLog](https://www.roger.ml/p/oslog)
-- [🌉 Bridging gaps in tech: Statused&#39;s new Android support makes waves](https://www.roger.ml/p/launching-statused-android)
 <!-- BLOG-POST-LIST:END -->
